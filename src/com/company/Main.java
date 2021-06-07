@@ -36,7 +36,7 @@ public class Main {
     public static void main(String[] args) {
 	 Dog dog = new Dog();
 	 dog.castAVoice();
-	 dog.setName("Чуча");
+	 dog.setName("Веня");
 	 dog.giveAPaw();
 
     }

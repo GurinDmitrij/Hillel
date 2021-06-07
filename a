@@ -1,0 +1,17 @@
+[33mcommit 0bac59dc823b0ea656eae721ce1190f9b637358f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gurin <gurdmva@gmail.com>
+Date:   Mon Jun 7 12:03:00 2021 +0300
+
+    add gitignore file
+
+[33mcommit d8e2313900d27e9bdcc4a256c6305028213146ca[m
+Author: Gurin <gurdmva@gmail.com>
+Date:   Mon Jun 7 11:55:46 2021 +0300
+
+    add iml file
+
+[33mcommit da8aac840546bafc5ddbb16c97072412c007a2db[m
+Author: Gurin <gurdmva@gmail.com>
+Date:   Mon Jun 7 11:47:29 2021 +0300
+
+    initial
